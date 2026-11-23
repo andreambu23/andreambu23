@@ -1,10 +1,12 @@
 # Olá! 👋
 
-Meu nome é André, meus pais me chamam de "Dé", meus amigos de "Ambu", mas porque "Ambu"? Longa história rsrsrs, quase não me chamam pelo nome e quando alguém chama já acho que está bravo(a) comigo =D.
+Meu nome é André, sou apaixonado por tecnologia e atuo na área desde 2013.
 
-Sou apaixonado por tecnologia desde o melhor período da minha vida que foram os anos em que eu podia me reunir para as resenhas com os amigos na lan house da cidade, grande cidade com pouco mais de 5k de habitantes rsrsrsr.
+Sou formado em Tecnologia em Desenvolvimento e Análise de Sistemas pela UniFatecie, conclusão em 2024, neste mesmo ano iniciei e finalizei um curso intensivo com turma de javascript, curso esse que me cedeu uma visão melhor de programação.
 
-Esse perfil foi criado para que eu possa me apresentar melhor e compartilhar o desenvolvimento da minha carreira, estou empenhado estudando Desenvolvimento de Software Full Stack na Cubos Academy.
+Aprendi como construir uma API do zero, utilizando princípios SOLID, garantindo a segurança dos dados e utilizando pequenos componentes bem estruturandos para executarem apenas as suas funções préviamente definidas.
+
+Tenho bom conhecimento em bancos de dados, consultas SQL e scripts de bancos.
 
 ### É possível me encontrar através das seguintes redes sociais:
 
@@ -15,8 +17,6 @@ Esse perfil foi criado para que eu possa me apresentar melhor e compartilhar o d
 ### Hard Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Learning Skills
 ![HTML5](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,14 +25,6 @@ Esse perfil foi criado para que eu possa me apresentar melhor e compartilhar o d
 ![HTML5](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Pequeno trabalho realizado por mim
-[Orbe Soluções](https://www.orbesolucoes.com.br/)
-
-Também realizo trabalhos no ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-com ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-
-[CR Móveis Planejados](https://crmoveisplanejados.com.br/)
 
 ### ----------------------------------------------------------
 ![André Silva](https://github-readme-stats.vercel.app/api?username=andreambu23&show_icons=true&theme=dracula)
