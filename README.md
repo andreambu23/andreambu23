@@ -2,7 +2,7 @@
 
 Meu nome é André, sou apaixonado por tecnologia e atuo na área desde 2013.
 
-Sou formado em Tecnologia em Desenvolvimento e Análise de Sistemas pela UniFatecie, conclusão em 2024, neste mesmo ano iniciei e finalizei um curso intensivo com turma de javascript, curso esse que me cedeu uma visão melhor de programação.
+Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela UniFatecie, conclusão em 2024, neste mesmo ano iniciei e finalizei um curso intensivo com turma de javascript, curso esse que me cedeu uma visão melhor de programação.
 
 Aprendi como construir uma API do zero, utilizando princípios SOLID, garantindo a segurança dos dados e utilizando pequenos componentes bem estruturandos para executarem apenas as suas funções préviamente definidas.
 
